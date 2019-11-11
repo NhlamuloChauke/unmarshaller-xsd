@@ -1,4 +1,4 @@
-package com.example.unmarshalling.xsdxmlutils;
+package com.example.unmarshalling.utils;
 
 import com.example.unmarshalling.exception.SystemException;
 

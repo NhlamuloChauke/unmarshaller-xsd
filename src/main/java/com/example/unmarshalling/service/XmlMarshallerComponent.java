@@ -2,7 +2,7 @@ package com.example.unmarshalling.service;
 
 import com.example.unmarshalling.Note;
 import com.example.unmarshalling.config.AppProperties;
-import com.example.unmarshalling.xsdxmlutils.XsdXmlUtil;
+import com.example.unmarshalling.utils.XsdXmlUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
